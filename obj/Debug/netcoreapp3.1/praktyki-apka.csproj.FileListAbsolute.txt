@@ -1,0 +1,13 @@
+C:\Users\pient\praktyki-apka\bin\Debug\netcoreapp3.1\praktyki-apka.exe
+C:\Users\pient\praktyki-apka\bin\Debug\netcoreapp3.1\praktyki-apka.deps.json
+C:\Users\pient\praktyki-apka\bin\Debug\netcoreapp3.1\praktyki-apka.runtimeconfig.json
+C:\Users\pient\praktyki-apka\bin\Debug\netcoreapp3.1\praktyki-apka.runtimeconfig.dev.json
+C:\Users\pient\praktyki-apka\bin\Debug\netcoreapp3.1\praktyki-apka.dll
+C:\Users\pient\praktyki-apka\bin\Debug\netcoreapp3.1\praktyki-apka.pdb
+C:\Users\pient\praktyki-apka\obj\Debug\netcoreapp3.1\praktyki-apka.csprojAssemblyReference.cache
+C:\Users\pient\praktyki-apka\obj\Debug\netcoreapp3.1\praktyki-apka.AssemblyInfoInputs.cache
+C:\Users\pient\praktyki-apka\obj\Debug\netcoreapp3.1\praktyki-apka.AssemblyInfo.cs
+C:\Users\pient\praktyki-apka\obj\Debug\netcoreapp3.1\praktyki-apka.csproj.CoreCompileInputs.cache
+C:\Users\pient\praktyki-apka\obj\Debug\netcoreapp3.1\praktyki-apka.dll
+C:\Users\pient\praktyki-apka\obj\Debug\netcoreapp3.1\praktyki-apka.pdb
+C:\Users\pient\praktyki-apka\obj\Debug\netcoreapp3.1\praktyki-apka.genruntimeconfig.cache
